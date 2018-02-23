@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/pf-java-shape.iml" filepath="$PROJECT_DIR$/pf-java-shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pf-java-comparable.iml" filepath="$PROJECT_DIR$/pf-java-comparable.iml" />
     </modules>
   </component>
 </project>
